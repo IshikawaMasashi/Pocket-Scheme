@@ -79,7 +79,7 @@ var urlsToCache = [
   "https://ishikawamasashi.github.io/Pocket-Scheme/style/global.css",
 
   // lib
-
+  "https://ishikawamasashi.github.io/Pocket-Scheme/lib/scheme/scheme.js",
 ];
 
 self.addEventListener('install', function (event) {
