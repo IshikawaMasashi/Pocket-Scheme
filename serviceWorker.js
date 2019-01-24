@@ -77,6 +77,9 @@ var urlsToCache = [
   "https://ishikawamasashi.github.io/Pocket-Scheme/style/split-pane.css",
   "https://ishikawamasashi.github.io/Pocket-Scheme/style/theme.css",
   "https://ishikawamasashi.github.io/Pocket-Scheme/style/global.css",
+
+  // lib
+
 ];
 
 self.addEventListener('install', function (event) {
